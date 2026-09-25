@@ -75,6 +75,3 @@ Run the connector tests with:
 pytest tests/test_fno.py tests/test_corporate.py tests/test_indices.py -v
 
 Each connector returns an empty DataFrame with the correct columns if the NSE request fails or no data is available.
-
-
-**That's the one I'd use.** It is short enough that your teammates will actually read it, but it tells them exactly
